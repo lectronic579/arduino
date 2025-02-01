@@ -1,3 +1,3 @@
 Bienvenido a mi espacio!
 
-Repositorio de arduino.
+Repositorio de arduino variado.
